@@ -1,4 +1,4 @@
-#HEROES EVERY CHILD SHOULD KNOW
+# HEROES EVERY CHILD SHOULD KNOW
 
 TALES FOR YOUNG PEOPLE OF THE WORLD'S HEROES IN ALL AGES
 
@@ -9,7 +9,7 @@ HAMILTON WRIGHT MABIE
 ILLUSTRATED AND DECORATED BY BLANCHE OSTERTAG
 
 
-##INTRODUCTORY NOTE TO "HEROES EVERY CHILD SHOULD KNOW"
+## INTRODUCTORY NOTE TO "HEROES EVERY CHILD SHOULD KNOW"
 
 The endeavour has been made in this volume to bring together the
 heroic men of different races, periods and types; and in the
@@ -28,7 +28,7 @@ entitled to the fullest recognition as associate editor.
 
 H. W. M.
 
-##ACKNOWLEDGMENTS TO "HEROES EVERY CHILD SHOULD KNOW"
+## ACKNOWLEDGMENTS TO "HEROES EVERY CHILD SHOULD KNOW"
 
 The editor and publishers wish to extend their thanks and
 acknowledgment to the firms who have kindly permitted the use of
@@ -111,7 +111,7 @@ XVIII. ROBERT E. LEE. From "Letters and Recollections of General
                       Cashmere to His Home in Hawaii," by Edward
                       Clifford
 
-##Chapter I PERSEUS
+## Chapter I PERSEUS
 
 Once upon a time there were two princes who were twins. Their names
 were Acrisius and Proetus, and they lived in the pleasant vale of
@@ -126,7 +126,7 @@ for himself.
 _There are many more paragraphs in the book, but you get the idea._
 
 
-##Chapter II HERCULES
+## Chapter II HERCULES
 
 
 Many, many years ago in the far-off land of Hellas, which we call
@@ -138,7 +138,7 @@ _More paragraphs...._
 
 _Here are some level 2 inside of Chapter 2 sections:_
 
-###THE FIRST LABOUR--WRESTLING WITH THE NEMEAN LION
+### THE FIRST LABOUR--WRESTLING WITH THE NEMEAN LION
 
 The first task which Eurystheus required of Hercules was to bring
 him the skin of a lion which no arrow nor other weapon could wound,
@@ -154,7 +154,7 @@ himself as a hero.
 _More paragraphs...._
 
 
-###THE SECOND LABOUR--DESTROYING THE LERNEAN HYDRA
+### THE SECOND LABOUR--DESTROYING THE LERNEAN HYDRA
 
 The second task of Hercules was to destroy a hydra or water snake
 which dwelt in the marsh of Lerna, a small lake near Mycenae. The
@@ -164,7 +164,7 @@ Eight of these heads were mortal, but the ninth head was undying.
 _More paragraphs...._
 
 
-###THE THIRD LABOUR--CAPTURING THE ARCADIAN HIND
+### THE THIRD LABOUR--CAPTURING THE ARCADIAN HIND
 
 In the days in which Hercules lived, Arcadia was a beautiful country
 of cool, sweet-scented woods, clear mountain streams, and sloping
@@ -177,7 +177,7 @@ the goddess.
 _More sections up until the SEVENTH LABOUR...._
 
 
-##CHAPTER III
+## CHAPTER III
 
 DANIEL
 
